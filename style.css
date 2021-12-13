@@ -72,14 +72,14 @@ body{
     color           : white;
     text-align      : center;
     text-decoration : none;
-    padding-top     : none;
+    padding-top     : 12px;
 }
 
 /*=====================MAIN==================================*/
 #main{
     margin-top        :  119px;
     background        :  url(images/map-blur.png);
-    background-repeat : repeat-y;
+    background-repeat :  repeat-y;
     
 }
 
@@ -119,6 +119,7 @@ a.info-box{
     padding         : 0;
     width           : 90%;
     color           : 131313;
+    color           : #131313;
 }
 
 .info-box img.right{
